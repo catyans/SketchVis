@@ -5,6 +5,10 @@ A Partial User-space Implementation of SketchVisor's Logic using Python and Mini
 [SketchVisor](https://www.cs.jhu.edu/~xinjin/files/SIGCOMM17_SketchVisor.pdf) is an paper presented in SIGCOMM17
 And suggests a method to perform common network measurment tasks such as Heavy-Hitter-Detection, Heavy-Changers, DDoS, Cardinality, Flow-Size-Distribution, etc while minding Performance, Resource efficiency, Accuracy(**NOT SAMPLING BASED**) and Generality(Supports various sketch based solutions).
 
+### Our Goal ###
+Being able to track **as many flows as possible** simultaneously, to perform the above tasks.
+
+![Untitled Diagram (1)](https://user-images.githubusercontent.com/7606509/61496961-93cfd200-a9c6-11e9-8e91-79c3bef4232d.png)
 ### How does it work? ###
 Sketch-Visor utilizes principles laid by [Misra-Gries](https://en.wikipedia.org/wiki/Misra%E2%80%93Gries_summary) Algorithm by introducing a **"Fast Path"** which tracks major flows in a lossy fasion, while being able to restore the full sketch at the end of the process.
 
@@ -39,3 +43,5 @@ Desired `e` needs to be at least larger than the smallest flow in the table, in 
 **Addressing Data-Loss on Fast-Path**
 
 By tracking the larger, dominating flows on the Fast-Path, we allegedly lose information about smaller flows which are necessary for some tasks, **for example, DDoS-Detection**. The paper suggests a way of reconstructing the "original" sketch as if all flows we're being tracked, by formulating a convex optimization problem. **This project does not implement the convex-optimization and therefore unable to accuratly answer tasks that are small-flow dependant(like DDoS detection).**
+
+### Implementation ###
