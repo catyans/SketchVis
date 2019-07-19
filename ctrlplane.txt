@@ -1,0 +1,1370 @@
+WARNING: No route found for IPv6 destination :: (no default route?)
+[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J flow                      rate
+ flow                      rate
+ flow                      rate
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 3878b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 159b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 73b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 499154b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 499154b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 273b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 273b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 207b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 207b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 1029886b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 1029886b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 273b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 273b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 207b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 207b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 1584440b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 1584440b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 273b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 273b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 207b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 207b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 24376b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 24376b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 2146196b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 2146196b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 273b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 273b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 207b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 207b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 2768892b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 2768892b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 273b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 273b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 207b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 207b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 7756b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 7756b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 3340620b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 3340620b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 273b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 273b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 207b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 207b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 3932846b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 3932846b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 273b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 273b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 207b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 207b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 344[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2Jb/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 344b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 273b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 273b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 0b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 0b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 0b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 0b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 0b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 0b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 0b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 0b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 0b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('1[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J0.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 0b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 0b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 0b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 0b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 0b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 0b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '4[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J7444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 0b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 0b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+#('10.0.0.[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J1', '10.0.0.2', '53359', '8999', 'UDP') :: 0b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 0b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 0b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2Js
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 0b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 0b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 0b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1'[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J, '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 0b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 0b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 0b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 0b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 0b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 0b/s
+ flow                      rate
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.1', '10.0.0.2', '53359', '8999', 'UDP') :: 4107356b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.2', '10.0.0.1', '9000', '47444', 'TCP') :: 609b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+#('10.0.0.1', '10.0.0.2', '47444', '9000', 'TCP') :: 543b/s
+ flow               [H[2J[H[2J

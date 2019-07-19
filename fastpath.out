@@ -1,0 +1,2966 @@
+WARNING: No route found for IPv6 destination :: (no default route?)
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=1fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=2fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=2fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=2fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=2fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=2fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=2
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=2
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=2
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=2
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=2
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=2
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=2
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=2
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=2
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=2
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=2
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=2
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=2
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=2
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=2
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=2
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=2
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=2
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=2
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=2
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=2
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=2
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=2
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=2
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=2
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=2
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=2
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=2
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=2
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=2
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=2
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=2
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=2
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=2
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53811', '8999', 'UDP')
+received packets
+K=10, CurrentSize=3
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.2', '10.0.0.1', '9000', '53750', 'TCP')
+received packets
+K=10, CurrentSize=4
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=4
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.2', '10.0.0.1', '9000', '53750', 'TCP')
+received packets
+K=10, CurrentSize=4
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.2', '10.0.0.1', '9000', '53750', 'TCP')
+received packets
+K=10, CurrentSize=4
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '53750', '9000', 'TCP')
+received packets
+K=10, CurrentSize=5
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.2', '10.0.0.1', '9000', '53750', 'TCP')
+received packets
+K=10, CurrentSize=5
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=5
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=5
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=5
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=5
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=5
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=5
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=5
+
+updating ctrl plane
+fastpath_algorithm got: 
+('0.0.0.0', '255.255.255.255', '68', '67', 'UDP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '39574', '9000', 'TCP')
+received packets
+K=10, CurrentSize=7
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.2', '10.0.0.1', '9000', '39574', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.3', '10.0.0.1', '39428', '9000', 'TCP')
+received packets
+K=10, CurrentSize=9
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.3', '9000', '39428', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.3', '10.0.0.1', '54077', '8999', 'UDP')
+popping:[('10.0.0.1', '10.0.0.2', '53750', '9000', 'TCP'), ('10.0.0.1', '10.0.0.3', '9000', '39428', 'TCP'), ('10.0.0.1', '10.0.0.2', '39574', '9000', 'TCP'), ('10.0.0.2', '10.0.0.1', '9000', '39574', 'TCP'), ('10.0.0.3', '10.0.0.1', '39428', '9000', 'TCP')]
+received packets
+K=10, CurrentSize=5
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.9', '10.0.0.1', '49545', '8999', 'UDP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.9', '40755', '8999', 'UDP')
+received packets
+K=10, CurrentSize=7
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.7', '54904', '8999', 'UDP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.4', '52377', '8999', 'UDP')
+received packets
+K=10, CurrentSize=9
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.6', '36500', '8999', 'UDP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.4', '10.0.0.1', '33772', '8999', 'UDP')
+popping:[('0.0.0.0', '255.255.255.255', '68', '67', 'UDP')]
+received packets
+K=10, CurrentSize=9
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.3', '50723', '8999', 'UDP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.5', '48353', '8999', 'UDP')
+popping:[('10.0.0.9', '10.0.0.1', '49545', '8999', 'UDP'), ('10.0.0.1', '10.0.0.4', '52377', '8999', 'UDP'), ('10.0.0.1', '10.0.0.6', '36500', '8999', 'UDP'), ('10.0.0.1', '10.0.0.7', '54904', '8999', 'UDP'), ('10.0.0.1', '10.0.0.9', '40755', '8999', 'UDP'), ('10.0.0.2', '10.0.0.1', '9000', '53750', 'TCP')]
+received packets
+K=10, CurrentSize=5
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.8', '52231', '8999', 'UDP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '46106', '8999', 'UDP')
+received packets
+K=10, CurrentSize=7
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.6', '36500', '8999', 'UDP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.9', '40755', '8999', 'UDP')
+received packets
+K=10, CurrentSize=9
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.7', '54904', '8999', 'UDP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.4', '52377', '8999', 'UDP')
+popping:[('10.0.0.1', '10.0.0.3', '50723', '8999', 'UDP'), ('10.0.0.2', '10.0.0.1', '9000', '53750', 'TCP')]
+received packets
+K=10, CurrentSize=9
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.3', '50723', '8999', 'UDP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.5', '48353', '8999', 'UDP')
+popping:[('10.0.0.1', '10.0.0.6', '36500', '8999', 'UDP'), ('10.0.0.1', '10.0.0.7', '54904', '8999', 'UDP'), ('10.0.0.1', '10.0.0.8', '52231', '8999', 'UDP'), ('10.0.0.1', '10.0.0.9', '40755', '8999', 'UDP'), ('10.0.0.1', '10.0.0.2', '46106', '8999', 'UDP'), ('10.0.0.2', '10.0.0.1', '9000', '53750', 'TCP')]
+received packets
+K=10, CurrentSize=5
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.4', '10.0.0.1', '33772', '8999', 'UDP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '46106', '8999', 'UDP')
+received packets
+K=10, CurrentSize=7
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.9', '10.0.0.1', '49545', '8999', 'UDP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.3', '10.0.0.1', '54077', '8999', 'UDP')
+received packets
+K=10, CurrentSize=9
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.8', '52231', '8999', 'UDP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.3', '10.0.0.1', '54077', '8999', 'UDP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.9', '40755', '8999', 'UDP')
+popping:[('10.0.0.1', '10.0.0.3', '50723', '8999', 'UDP'), ('10.0.0.2', '10.0.0.1', '9000', '53750', 'TCP')]
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.6', '36500', '8999', 'UDP')
+received packets
+K=10, CurrentSize=9
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.5', '48353', '8999', 'UDP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.4', '52377', '8999', 'UDP')
+popping:[('10.0.0.9', '10.0.0.1', '49545', '8999', 'UDP'), ('10.0.0.4', '10.0.0.1', '33772', '8999', 'UDP'), ('10.0.0.1', '10.0.0.8', '52231', '8999', 'UDP'), ('10.0.0.1', '10.0.0.2', '46106', '8999', 'UDP'), ('10.0.0.3', '10.0.0.1', '54077', '8999', 'UDP')]
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.9', '10.0.0.1', '49545', '8999', 'UDP')
+received packets
+K=10, CurrentSize=7
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.3', '50723', '8999', 'UDP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '46106', '8999', 'UDP')
+received packets
+K=10, CurrentSize=9
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.8', '52231', '8999', 'UDP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.4', '10.0.0.1', '33772', '8999', 'UDP')
+popping:[('10.0.0.1', '10.0.0.6', '36500', '8999', 'UDP'), ('10.0.0.1', '10.0.0.5', '48353', '8999', 'UDP'), ('10.0.0.3', '10.0.0.1', '54077', '8999', 'UDP')]
+received packets
+K=10, CurrentSize=7
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.7', '54904', '8999', 'UDP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.3', '10.0.0.1', '54077', '8999', 'UDP')
+received packets
+K=10, CurrentSize=9
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.9', '40755', '8999', 'UDP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.6', '36500', '8999', 'UDP')
+popping:[('10.0.0.9', '10.0.0.1', '49545', '8999', 'UDP'), ('10.0.0.1', '10.0.0.8', '52231', '8999', 'UDP'), ('10.0.0.1', '10.0.0.2', '46106', '8999', 'UDP'), ('10.0.0.1', '10.0.0.3', '50723', '8999', 'UDP')]
+received packets
+K=10, CurrentSize=7
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.5', '48353', '8999', 'UDP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.4', '52377', '8999', 'UDP')
+received packets
+K=10, CurrentSize=9
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.3', '50723', '8999', 'UDP')
+received packets
+K=10, CurrentSize=9
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.9', '10.0.0.1', '49545', '8999', 'UDP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '46106', '8999', 'UDP')
+popping:[('10.0.0.1', '10.0.0.7', '54904', '8999', 'UDP'), ('10.0.0.1', '10.0.0.9', '40755', '8999', 'UDP'), ('10.0.0.3', '10.0.0.1', '54077', '8999', 'UDP')]
+received packets
+K=10, CurrentSize=7
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.8', '52231', '8999', 'UDP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.4', '10.0.0.1', '33772', '8999', 'UDP')
+received packets
+K=10, CurrentSize=9
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.7', '54904', '8999', 'UDP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.9', '40755', '8999', 'UDP')
+popping:[('10.0.0.9', '10.0.0.1', '49545', '8999', 'UDP'), ('10.0.0.1', '10.0.0.4', '52377', '8999', 'UDP'), ('10.0.0.1', '10.0.0.5', '48353', '8999', 'UDP'), ('10.0.0.1', '10.0.0.3', '50723', '8999', 'UDP')]
+received packets
+K=10, CurrentSize=7
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.8', '52231', '8999', 'UDP')
+received packets
+K=10, CurrentSize=7
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.5', '48353', '8999', 'UDP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '46106', '8999', 'UDP')
+received packets
+K=10, CurrentSize=9
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.3', '10.0.0.1', '54077', '8999', 'UDP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.9', '10.0.0.1', '49545', '8999', 'UDP')
+popping:[('10.0.0.1', '10.0.0.7', '54904', '8999', 'UDP'), ('10.0.0.4', '10.0.0.1', '33772', '8999', 'UDP'), ('10.0.0.1', '10.0.0.3', '50723', '8999', 'UDP')]
+received packets
+K=10, CurrentSize=7
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.3', '50723', '8999', 'UDP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.4', '10.0.0.1', '33772', '8999', 'UDP')
+received packets
+K=10, CurrentSize=9
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.7', '54904', '8999', 'UDP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.4', '52377', '8999', 'UDP')
+popping:[('10.0.0.1', '10.0.0.5', '48353', '8999', 'UDP'), ('10.0.0.1', '10.0.0.2', '46106', '8999', 'UDP'), ('10.0.0.3', '10.0.0.1', '54077', '8999', 'UDP')]
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.9', '40755', '8999', 'UDP')
+received packets
+K=10, CurrentSize=9
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.6', '36500', '8999', 'UDP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.3', '10.0.0.1', '54077', '8999', 'UDP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.8', '52231', '8999', 'UDP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.5', '48353', '8999', 'UDP')
+popping:[('10.0.0.1', '10.0.0.6', '36500', '8999', 'UDP'), ('10.0.0.1', '10.0.0.7', '54904', '8999', 'UDP'), ('10.0.0.4', '10.0.0.1', '33772', '8999', 'UDP'), ('10.0.0.1', '10.0.0.9', '40755', '8999', 'UDP'), ('10.0.0.1', '10.0.0.3', '50723', '8999', 'UDP')]
+received packets
+K=10, CurrentSize=5
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.3', '50723', '8999', 'UDP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.9', '10.0.0.1', '49545', '8999', 'UDP')
+received packets
+K=10, CurrentSize=7
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '46106', '8999', 'UDP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.9', '40755', '8999', 'UDP')
+received packets
+K=10, CurrentSize=9
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.4', '10.0.0.1', '33772', '8999', 'UDP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.4', '52377', '8999', 'UDP')
+popping:[('10.0.0.1', '10.0.0.8', '52231', '8999', 'UDP')]
+received packets
+K=10, CurrentSize=9
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.6', '36500', '8999', 'UDP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.3', '10.0.0.1', '54077', '8999', 'UDP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.7', '54904', '8999', 'UDP')
+popping:[('10.0.0.9', '10.0.0.1', '49545', '8999', 'UDP'), ('10.0.0.4', '10.0.0.1', '33772', '8999', 'UDP'), ('10.0.0.1', '10.0.0.9', '40755', '8999', 'UDP'), ('10.0.0.1', '10.0.0.2', '46106', '8999', 'UDP'), ('10.0.0.1', '10.0.0.3', '50723', '8999', 'UDP')]
+received packets
+K=10, CurrentSize=5
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.8', '52231', '8999', 'UDP')
+received packets
+K=10, CurrentSize=6
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.5', '48353', '8999', 'UDP')
+received packets
+K=10, CurrentSize=7
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.3', '50723', '8999', 'UDP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.9', '10.0.0.1', '49545', '8999', 'UDP')
+received packets
+K=10, CurrentSize=9
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '46106', '8999', 'UDP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.4', '52377', '8999', 'UDP')
+popping:[('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')]
+received packets
+K=10, CurrentSize=9
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.4', '10.0.0.1', '33772', '8999', 'UDP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.9', '40755', '8999', 'UDP')
+popping:[('10.0.0.1', '10.0.0.6', '36500', '8999', 'UDP')]
+received packets
+K=10, CurrentSize=9
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.6', '36500', '8999', 'UDP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.3', '10.0.0.1', '54077', '8999', 'UDP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.8', '52231', '8999', 'UDP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.5', '48353', '8999', 'UDP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.8', '9000', '50850', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.8', '10.0.0.1', '50850', '9000', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.8', '10.0.0.1', '50850', '9000', 'TCP')
+popping:[('10.0.0.9', '10.0.0.1', '49545', '8999', 'UDP'), ('10.0.0.1', '10.0.0.2', '46106', '8999', 'UDP'), ('10.0.0.1', '10.0.0.3', '50723', '8999', 'UDP')]
+received packets
+K=10, CurrentSize=7
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.8', '9000', '50850', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.8', '9000', '50850', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.8', '9000', '50850', 'TCP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.8', '10.0.0.1', '50850', '9000', 'TCP')
+received packets
+K=10, CurrentSize=9
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.8', '9000', '50850', 'TCP')
+received packets
+K=10, CurrentSize=9
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=9
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.2', '10.0.0.1', '56796', '8999', 'UDP')
+popping:[('10.0.0.3', '10.0.0.1', '54077', '8999', 'UDP')]
+received packets
+K=10, CurrentSize=9
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '10.0.0.2', '10.0.', 'UDP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.7', '10.0.0.1', '57931', '8999', 'UDP')
+popping:[('10.0.0.8', '10.0.0.1', '50850', '9000', 'TCP')]
+received packets
+K=10, CurrentSize=9
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.7', '10.0.0.7', '10.0.', 'UDP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.2', '10.0.0.1', '56796', '8999', 'UDP')
+popping:[('10.0.0.4', '10.0.0.1', '33772', '8999', 'UDP')]
+received packets
+K=10, CurrentSize=9
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '10.0.0.2', '10.0.', 'UDP')
+received packets
+K=10, CurrentSize=9
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.7', '10.0.0.1', '57931', '8999', 'UDP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.7', '10.0.0.7', '10.0.', 'UDP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.7', '10.0.0.1', '57931', '8999', 'UDP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.7', '10.0.0.7', '10.0.', 'UDP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.5', '10.0.0.1', '59464', '8999', 'UDP')
+popping:[('10.0.0.1', '10.0.0.6', '36500', '8999', 'UDP')]
+received packets
+K=10, CurrentSize=9
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.5', '10.0.0.5', '10.0.', 'UDP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.6', '10.0.0.1', '57963', '8999', 'UDP')
+popping:[('10.0.0.1', '10.0.0.8', '52231', '8999', 'UDP'), ('10.0.0.1', '10.0.0.5', '48353', '8999', 'UDP'), ('10.0.0.1', '10.0.0.8', '9000', '50850', 'TCP')]
+received packets
+K=10, CurrentSize=7
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.6', '10.0.0.6', '10.0.', 'UDP')
+received packets
+K=10, CurrentSize=8
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.2', '10.0.0.1', '56796', '8999', 'UDP')
+received packets
+K=10, CurrentSize=9
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '10.0.0.2', '10.0.', 'UDP')
+received packets
+K=10, CurrentSize=9
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.5', '10.0.0.1', '59464', '8999', 'UDP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.5', '10.0.0.5', '10.0.', 'UDP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.2', '10.0.0.1', '56796', '8999', 'UDP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '10.0.0.2', '10.0.', 'UDP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.7', '10.0.0.1', '57931', '8999', 'UDP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.7', '10.0.0.7', '10.0.', 'UDP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.5', '10.0.0.1', '59464', '8999', 'UDP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.5', '10.0.0.5', '10.0.', 'UDP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.2', '10.0.0.1', '56796', '8999', 'UDP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.2', '10.0.0.2', '10.0.', 'UDP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.5', '10.0.0.1', '59464', '8999', 'UDP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.0.5', '10.0.0.5', '10.0.', 'UDP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.2', '10.0.0.1', '56796', '8999', 'UDP')
+received packets
+K=10, CurrentSize=10
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.6', '10.0.0.1', '57963', '8999', 'UDP')
+popping:[('10.0.0.1', '10.0.0.6', '10.0.0.6', '10.0.', 'UDP')]
+received packets
+K=10, CurrentSize=9
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.5', '10.0.0.1', '59464', '8999', 'UDP')
+received packets
+K=10, CurrentSize=9
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=9
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=9
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=9
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=9
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=9
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=9
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.0.1', '10.0.2.15', '47060', '5560', 'TCP')
+received packets
+K=10, CurrentSize=9
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=9
+
+updating ctrl plane
+fastpath_algorithm got: 
+('10.0.2.15', '10.0.0.1', '5560', '47060', 'TCP')
+received packets
+K=10, CurrentSize=9
+
+updatin
