@@ -75,7 +75,7 @@ Diagram: Control Plane **(Runs on Switch)**
 `NormalPath.py` - Tracks incoming flows using a [Count-Min-Sketch](https://github.com/21zhouyun/CountMinSketch). Updates ControlPlane.py with it's sketch matrix(Let it be M) once every defined interval.
 
 `FastPath.py` - Listens to incoming flows. Implements the Fast-Path concept as shown in the paper. has a hash table H where it stores top-k flows. The algorithm for updating the hash table is:
-\* \[ FAST PATH ALGORITHM IMAGE \].
+![fastpathalg](https://user-images.githubusercontent.com/7606509/61515616-b9cb9580-aa0b-11e9-80c7-17b5deb188db.png)
 
 `ControlPlane.py`- Listens for incoming flows from both FastPath and NormalPath. It can receive 2 types of message denoted by the index in the message tuple. 
 
