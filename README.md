@@ -1,4 +1,4 @@
-# SketchVis(...)
+# SketchVisor
 A Partial User-space Implementation of SketchVisor's Logic using Python and Mininet.
 
 ### Introduction: ###
@@ -68,4 +68,21 @@ Diagram: Control Plane **(Runs on Switch)**
 ![Untitled Diagram (3)](https://user-images.githubusercontent.com/7606509/61501528-60963e80-a9d8-11e9-98f3-f2865ef17e33.png)
 
 
-`CapturePackets.py` - captures from selected interface via 
+`CapturePackets.py` - captures from selected interface via [Pcapy](https://pypi.org/project/pcapy/) library, parse the packet header and content to extract a 5-Tuple Flow-ID of the form: `(SRC_IP, DST_IP, SRC_PORT, DST_PORT, PROTOCOL)`, then forwards them via ZeroMQ socket to Buffer.py.
+
+`Buffer.py` - Listens for incoming packets and fills up the buffer. The NormalPath.py requests new flows to process at a certain rate, and once the buffer is full packets are being forwarded to the FastPath.py process via it's own socket.
+
+`NormalPath.py` - Tracks incoming flows using a [Count-Min-Sketch](https://github.com/21zhouyun/CountMinSketch). Updates ControlPlane.py with it's sketch matrix(Let it be M) once every defined interval.
+
+`FastPath.py` - Listens to incoming flows. Implements the Fast-Path concept as shown in the paper. has a hash table H where it stores top-k flows. The algorithm for updating the hash table is:
+\* \[ FAST PATH ALGORITHM IMAGE \].
+
+`ControlPlane.py`- Listens for incoming flows from both FastPath and NormalPath. It can receive 2 types of message denoted by the index in the message tuple. 
+
+0 - Message contains a FastPath hash table to be merged with the general H hash table.
+1 - Message contains a sketch matrix M, to be added with matrix addition to the general sketch.
+
+### Heavy Hitter Detection ###
+We then sort all the flows according to their byte counts, and measure these values during a period of 1 second.
+The delta between the new sketch and the 1-seconds old sketch is being shown to the user as the byte/seconds rate.
+We can then define a threashold for which above it the flow will be considered a Heavy Hitter.
