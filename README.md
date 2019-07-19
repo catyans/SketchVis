@@ -57,6 +57,12 @@ The following steps will occur:
 5. Start injecting dummy traffic in the network, generate several flows between each pair of hosts `(h_i,h_j) | i!=j`
 6. Monitor the data rate of each flow in the xterm window that's opened, which shows our ability to detect heavy hitters as an example.
 
-Diagram: Data Plane (Runs on each Host)
+Diagram: Data Plane **(Runs on each Host)**
+
 ![Untitled Diagram (2)](https://user-images.githubusercontent.com/7606509/61500667-ee702a80-a9d4-11e9-93eb-1a0420a059c6.png)
 
+
+
+Diagram: Control Plane **(Runs on Switch)**
+
+![Untitled Diagram (3)](https://user-images.githubusercontent.com/7606509/61501394-e6fe5080-a9d7-11e9-984d-a566bd1775e4.png)
