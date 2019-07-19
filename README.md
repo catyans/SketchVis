@@ -65,4 +65,4 @@ Diagram: Data Plane **(Runs on each Host)**
 
 Diagram: Control Plane **(Runs on Switch)**
 
-![Untitled Diagram (3)](https://user-images.githubusercontent.com/7606509/61501394-e6fe5080-a9d7-11e9-984d-a566bd1775e4.png)
+![Untitled Diagram (3)](https://user-images.githubusercontent.com/7606509/61501528-60963e80-a9d8-11e9-98f3-f2865ef17e33.png)
